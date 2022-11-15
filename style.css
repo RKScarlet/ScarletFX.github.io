@@ -1,7 +1,6 @@
 body{text-align:center;
      background:#222222;
-     color:#E0144C; 
-     font-family: Montserrat, sans-serif;}
-h1{font-size:200px;}
-p,a{font-size:150px;
-    color:#E0144C;}
+     font-family: Montserrat, sans-serif;
+     font-size:100px;}
+h1{color:#E0144C;}
+p,a{color:#E0144C;}
