@@ -32,9 +32,7 @@ a{color:#111111;
   text-decoration:none;}
 
 .ul1{display:flex;
-  text-align:center;
-     
-img{width:100px; height:auto;}
+     text-align:center;}
 
 .li1{list-style:none;
   margin-left:auto;
