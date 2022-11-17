@@ -32,7 +32,9 @@ a{color:#111111;
   text-decoration:none;}
 
 .ul1{display:flex;
-     text-align:center;}
+     text-align:center;
+     background-color:#E0144C;
+     margin-top:0px;}
 
 .li1{list-style:none;
   margin-left:auto;
