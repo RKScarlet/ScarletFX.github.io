@@ -1,7 +1,9 @@
 body{text-align:center;
      background:#F6F6F6;
      font-size:50px;
-     font-family: 'Montserrat', sans-serif;}
+     font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: bold;}
 .p1{font-size:100px;
     padding:10px;
     margin-left:150px;
@@ -9,10 +11,7 @@ body{text-align:center;
     margin-top:0px;
     margin-bottom:0px;
     color:#111111;
-    background-color:#EEEEEE;
-  font-family: 'Montserrat', sans-serif;
-  font-style: normal;
-  font-weight: bold;}
+    background-color:#EEEEEE;}
 .p2{font-size:50px;
     color:#111111}
 a{color:#111111;
